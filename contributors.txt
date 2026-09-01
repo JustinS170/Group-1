@@ -4,6 +4,6 @@ Name               | GitHub Username
 -------------------|----------------
 Christopher Flores | Bigolbean7804
 Daniela Lopez      | zombieg1rl
+Barron McCarthy    | VegasBear
 Tyler Vu           | tylervu-unlv
 Finnagin Wantland  | FinnWant
-
