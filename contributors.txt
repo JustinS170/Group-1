@@ -3,6 +3,7 @@ Team Contributors
 Name               | GitHub Username
 -------------------|----------------
 Christopher Flores | Bigolbean7804
+Tyler Fuller       | tylerfuller1
 Daniela Lopez      | zombieg1rl
 Barron McCarthy    | VegasBear
 Finnagin Wantland  | FinnWant
