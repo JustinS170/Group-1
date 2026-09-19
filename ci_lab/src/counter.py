@@ -20,7 +20,7 @@ def create_counter(name):
     if not is_valid_counter_name(name):
         return jsonify({"error": "Invalid counter name. Only alphanumeric and underscores allowed."}), status.HTTP_400_BAD_REQUEST
     if name in COUNTERS:
-        return jsonify({"error": f"Counter '{name}' already exists"}), status.HTTP_409_CONFLICT
+        return jsonify({"error": f"Counter '{name}' already exists"}), status.HTTP_404_NOT_FOUND
     COUNTERS[name] = 0
     return jsonify({name: COUNTERS[name]}), status.HTTP_201_CREATED
 
